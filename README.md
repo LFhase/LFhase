@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on these repositories. Take a look if you are interested!
+  - ![Learning_CS224w](https://github.com/LFhase/Learning_CS224w)
+- 🚀 I’m always open for collaboration and you can find more about me via my personal website.
+
 <!--
 **LFhase/LFhase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
