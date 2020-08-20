@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on these repositories. Take a look if you are interested!
-  - [Learning_CS224w](https://github.com/LFhase/Learning_CS224w)
+- 🔭 I’m recently working on these repositories. Take a look if you are interested!
+  - [Learning_CS224w](https://github.com/LFhase/Learning_CS224w): Done on 20 Aug.
 - 🚀 I’m always open for collaboration and you can find more about me via my personal website.
 
 <!--
